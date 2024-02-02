@@ -71,7 +71,6 @@
 
 
 - Реализация №1
-  
 
 > [**Статический кольцевой буфер**](https://github.com/spacefellow/LestaTest/blob/main/code/task2/static.py)
 >  
